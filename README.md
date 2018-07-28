@@ -5,6 +5,6 @@
 
 ### 2018-7-29
 
-- https://mkaz.blog/code/python-string-format-cookbook/
+- <https://mkaz.blog/code/python-string-format-cookbook/>
   - 标题：Python String Format Cookbook
   - 描述：Python 字符串格式化的一些实用小技巧
