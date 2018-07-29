@@ -1,1 +1,8 @@
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
+theme: minima
+title: Python 文章、视频分享
+markdown: kramdown
+
+url: "http://pyzh.org"
+plugins:
+    - jekyll-feed

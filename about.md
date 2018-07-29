@@ -1,4 +1,8 @@
-## Python China
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 尝试收集一些自己认为不错的 Python 相关的一些文章，博客，演讲在这里
 
