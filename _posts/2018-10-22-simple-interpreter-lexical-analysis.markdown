@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  写一个简单的解释器 - 简介以及词法分析
-date:   2018-10-20 10:41:42 +0800
+date:   2018-10-22 11:22:00 +0800
 categories: interpreter lexer python
 ---
 
