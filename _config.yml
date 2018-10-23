@@ -3,6 +3,8 @@ theme: minima
 title: Python 文章、视频分享
 markdown: kramdown
 
+# 显示摘要
+show_excerpts: true
 url: "http://pyzh.org"
 
 plugins:
