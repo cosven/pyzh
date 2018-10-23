@@ -1,8 +1,10 @@
 #theme: jekyll-theme-leap-day
-theme: jekyll-theme-minimal
+theme: "minimal-mistakes-jekyll"
 title: Python 文章、视频分享
 markdown: kramdown
 
 url: "http://pyzh.org"
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
     - jekyll-feed
