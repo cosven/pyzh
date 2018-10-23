@@ -2,12 +2,17 @@
 layout: post
 title:  Why you can have millions of Goroutines but only thousands of Java Threads
 date:   2018-10-10 09:41:42 +0800
-categories: goroutine asyncio OS
+tags: goroutine asyncio OS
 ---
 
-**原文链接**：<https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/>
-
 **一句话概括**：从操作系统原理层面介绍简单为啥 Goroutine 的数量可以比 Java threads 多很多
+
+**推荐理由**：
+
+1. 大概了解线程和协程的一些区别
+2. 有机会复习或者了解操作系统的一些基本概念
+
+<!--more-->
 
 **摘要**
 
@@ -21,7 +26,5 @@ categories: goroutine asyncio OS
 > If a goroutine is waiting on a empty channel, the scheduler can see that
 > and it won’t run the Goroutine.
 
-**推荐理由**：
+[原文链接](https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/)
 
-1. 大概了解线程和协程的一些区别
-2. 有机会复习或者了解操作系统的一些基本概念
