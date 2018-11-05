@@ -13,6 +13,8 @@ tags: REST API error-handling
 服务端怎样将不同类型的错误信息完整准确的告诉客户端开发者或者用户？
 这篇文章较好的解决了我的这个疑问。
 
+<!--more-->
+
 **摘要**
 
 > 当 Restful API 需要抛出错误的时候，我们要考虑的是：这个错误应该包含哪些信息。
@@ -26,6 +28,8 @@ tags: REST API error-handling
 > - 有些提供了给开发者看的错误信息
 
 [原文链接](https://scarletsky.github.io/2016/11/30/error-handling-in-restful-api/)
+
+shared by @cosven
 
 -------------------
 
