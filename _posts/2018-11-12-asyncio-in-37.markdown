@@ -1,0 +1,30 @@
+---
+layout: post
+title: Asyncio in Python 3.7
+date: 2018-11-12 10:03:00 +0800
+tags: asyncio python3
+---
+
+**一句话概括**：Python 3.7 中 asyncio 的一些新特性和改进
+
+**推荐理由**：
+
+这篇文章较完整的介绍了 Python 3.7 中 asyncio 的一些新特性。
+比较有趣的是文章结尾有句话：
+*I expect lots of churn in this area in the years to come.*。
+想造轮子是不是应该把握这个时候？
+
+<!--more-->
+
+**摘要**
+
+> The release of Python 3.7 introduced a number of changes into the
+> async world. There are a lot of quality-of-life improvements,
+> some affect compatibility across versions and some are new features
+> to help manage concurrency better. This article will go over the changes,
+> their implications and the things you’ll want to watch out for if you’re a maintainer.
+> Some may even affect you even if you don’t use asyncio.
+
+[原文链接](https://tryexceptpass.org/article/asyncio-in-37/)
+
+shared by @cosven
