@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PyCon.DE 2018: What's New In Python 3.7?
+title: PyCon.DE 2018 - What's New In Python 3.7?
 date: 2018-11-14 10:32:00 +0800
 tags: python37 news
 ---
@@ -10,7 +10,7 @@ tags: python37 news
 比较完整的介绍了 Python 3.7 中的一些新特性，现在来看可能算是过时的**新闻**把。
 个人感觉整个视频讲的中规中矩，不过有一页 slide 的信息量还挺多的。
 
-![python-peps-537](https://imgchr.com/i/iXgapd)
+![python-peps-537](https://s1.ax1x.com/2018/11/14/iXgapd.png)
 
 <!--more-->
 
