@@ -35,13 +35,13 @@ shared by @cosven
    拿到 bytes 后系统内部进行编解码，得到人可以阅读的 text
 3. Python 3 中，str 是 unicode based str；Python 2 中，str 就是 bytes based str
 4. 在 Python 2 中，解释器会隐式的为你做类型转换
-  1. unicode.encode('xxx') => str
-  2. str.decode('xxx') => unicode
-  3. str.encode('xxx') 相当于 str.decode('ascii').encode('xxx')。ps: 一般是使用 ascii 进行隐式 decode，详情可以阅读文章。
+    1. unicode.encode('xxx') => str
+    2. str.decode('xxx') => unicode
+    3. str.encode('xxx') 相当于 str.decode('ascii').encode('xxx')。ps: 一般是使用 ascii 进行隐式 decode，详情可以阅读文章。
 
 5. 在 Python 3 中，没有 unicode 这个类型了
-  1. str.encode('xxx') => bytes
-  2. bytes.decode('xxx') => str
+    1. str.encode('xxx') => bytes
+    2. bytes.decode('xxx') => str
 
 
 
