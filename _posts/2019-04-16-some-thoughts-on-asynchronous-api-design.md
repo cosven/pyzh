@@ -11,6 +11,8 @@ tags: python asyncio API
 并举例说明了这些区别给我们实际编程带来的影响，可以让读者对 Python 异步 I/O
 世界有一个更加完整的认识，对编程实践也有一定的指导意义。
 
+<!--more-->
+
 **摘要**
 
 > I've recently been exploring the exciting new world of asynchronous I/O
