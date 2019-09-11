@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Static Analysis at Scale: An Instagram Story
+title: Static Analysis at Scale - An Instagram Story
 date: 2019-09-10 08:00:00 +0800
-tags: python static-analysis lint
+tags: python lint static-analysis
 ---
 
 **推荐理由**
