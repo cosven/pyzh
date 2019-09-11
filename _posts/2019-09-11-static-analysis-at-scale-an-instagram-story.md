@@ -11,6 +11,8 @@ tags: python lint static-analysis
 文章从『背景 -> 方案对比 -> 确认方案 -> 方案应用 -> 应用遇到问题 -> 调整 -> 未来展望』，
 讲的都非常清晰和易懂，其中也有干货。
 
+<!--more-->
+
 [原文链接](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c?gi=68a0c09f9d35)
 
 shared by @cosven
