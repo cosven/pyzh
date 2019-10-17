@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Attribute Access and the Descriptor Protocol
-date: 2019-10-14 13:30:00 +0800
+date: 2019-10-17 14:10:00 +0800
 tags: python descriptor attribute
 ---
 

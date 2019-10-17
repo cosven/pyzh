@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cool New Features in Python 3.8
-date: 2019-10-14 13:30:00 +0800
+date: 2019-10-16 13:30:00 +0800
 tags: python release
 ---
 
